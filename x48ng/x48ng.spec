@@ -4,6 +4,7 @@ Release:        1%{?dist}
 Summary:        HP 48 emulator
 License:        GPL-2.0-or-later
 URL:            https://github.com/nullman/copr/x48ng
+Source0:        x48ng-1.3.0.tar.gz
 BuildRequires:  gcc
 BuildRequires:  make
 BuildRequires:  lua-devel
