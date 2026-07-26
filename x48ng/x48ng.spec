@@ -9,7 +9,7 @@ BuildRequires:  gcc
 BuildRequires:  make
 BuildRequires:  pkgconfig(lua)
 BuildRequires:  pkgconfig(readline)
-BuildRequires:  pkgconfig(SDL3)
+BuildRequires:  pkgconfig(sdl3)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(glib-2.0)
